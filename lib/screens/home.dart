@@ -17,6 +17,7 @@ class HomePage extends StatelessWidget {
           "ResumeHub",
           style: AppText.title,
         ),
+        centerTitle: true,
       ),
       body: Column(
         children: [
